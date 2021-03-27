@@ -1,0 +1,105 @@
+body {
+    background-size: cover;
+    background-image: url("BG.jpg");
+    margin: 0;
+    color: #ffffff; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    
+    text-shadow: #FC0 1px 0 10px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+    
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+.game{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    
+}
+.food{
+    
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    right: 35%;
+}
+.music{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+ right: 0%;
+
+  
+}
+.middle{
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 100px;
+   margin-top: 20%;
+}
+.photo1{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 5% ;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+.photo2{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    right: 40%;
+   
+    margin-bottom: 5%;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+.photo3{
+    height: 300px;
+    width: 300px;
+    position:absolute;
+    right: 0%;
+    margin-bottom: auto;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.bottom{
+    font-family: fantasy;
+    font-size: 5em;
+    margin-top: 20% ;
+}
+.contact{
+    margin-top: 30%;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Architects Daughter', cursive;
+    color: darkred;
+}
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    text-align: center;
+}
